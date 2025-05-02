@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+logs/
+.idea/
+
+# IDE settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Airflow logs
+airflow/logs/
