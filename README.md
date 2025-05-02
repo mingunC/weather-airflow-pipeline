@@ -1,11 +1,11 @@
 # weather-airflow-pipeline
 
 This project automates a daily weather data pipeline that:
-Fetches weather data from the OpenWeather API
-Transforms and cleans the data
-Uploads it to Google Cloud Storage (GCS)
-Loads it into BigQuery
-Generates a 7-day weather report
+- Fetches weather data from the OpenWeather API
+- Transforms and cleans the data
+- Uploads it to Google Cloud Storage (GCS)
+- Loads it into BigQuery
+- Generates a 7-day weather report
 
 | Figure 1. DAG Graph View | Figure 2. DAG Gantt View |
 |:--:|:--:|
