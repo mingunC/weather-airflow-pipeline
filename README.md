@@ -9,7 +9,7 @@ This project automates a daily weather data pipeline that:
 
 | Figure 1. DAG Graph View | Figure 2. DAG Gantt View |
 |:--:|:--:|
-| <img src="./images/project3_graph.png" alt="Project 3 Graph View" width="400" /><br><em>Graph view of task dependencies</em> | <img src="./images/project3_gantt.png" alt="Project 3 Gantt View" width="400" /><br><em>Gantt view of task schedule and duration</em> |
+| <img src="./images/project3_graph.png" alt="Project 3 Graph View" width="400" /><br><em>Graph view of task dependencies</em> | <img src="./images/project3_calender.png" alt="Project 3 Gantt View" width="400" /><br><em>Gantt view of task schedule and duration</em> |
 
 
 ## Repository Structure
