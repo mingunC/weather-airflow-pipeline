@@ -7,6 +7,11 @@ Uploads it to Google Cloud Storage (GCS)
 Loads it into BigQuery
 Generates a 7-day weather report
 
+| Figure 1. DAG Graph View | Figure 2. DAG Gantt View |
+|:--:|:--:|
+| <img src="./images/project3_graph.png" alt="Project 3 Graph View" width="400" /><br><em>Graph view of task dependencies</em> | <img src="./images/project3_gantt.png" alt="Project 3 Gantt View" width="400" /><br><em>Gantt view of task schedule and duration</em> |
+
+
 ## Repository Structure
 ```text
 weather-airflow-pipeline/
